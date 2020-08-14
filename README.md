@@ -7,7 +7,7 @@ This project is coded in Java and needs software called Processing for actual re
 
 Depending on your screen resolution, you might want to change the window size (it is defined in the "base2D.pde" code on line 58.)
 
-Key Commands:
+### Key Commands:
 
 'w': Compute and show the traces that yield the "longest" traces - the ones with that pierce the 
 	most remaining traingles. The new vertices are also shown (the midpoint of a trace for a 
