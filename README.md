@@ -12,26 +12,26 @@ Key Commands:
 'w': Compute and show the traces that yield the "longest" traces - the ones with that pierce the 
 	most remaining traingles. The new vertices are also shown (the midpoint of a trace for a 
 	particular triangle).
-	<br>
+	<br><br>
 'r': Retriangulate the mesh (this is the final output) - this also shows the traces
-<br>
+<br><br>
 'v': toggles showing the new vertices
-<br>
+<br><br>
 't': toggles showing the traces
-<br>
+<br><br>
 'i': "undos" retriangualtion - this means that after hitting 'r' you can hit 'i' to go back to 
 	the original mesh
-	<br>
+	<br><br>
 'm': this creates a bidirectional trace at the location of the mouse
-<br>
+<br><br>
 'a' + leftclick: this adds a point at the location of the mouse (in order to change the mesh)
-<br>
+<br><br>
 '1': this toggles showing particles which come out at the mouse's location
-<br>
+<br><br>
 '2': this toggles generating the particles from the mouse's location (so hit 1 to toggle showing
 	and then 2 to toggle generating)
-	<br>
+	<br><br>
 '3': this toggles a light background trace showing the overall field layout
-<br>
+<br><br>
 
 Note that results (such as retriangulation) are stored and not computed at every frame.
