@@ -1,4 +1,7 @@
 ## Graphics Vector Field Project
+
+Link to GitHub Page: https://chadhayes91.github.io/Well-Structured-Vector-Field-Triangulation/
+
 Project for CS 6491 Computer Graphics at Georgia Tech. This project was a two-man group effort with Steven Hillerman (also currently a GT student). Base code for 2D rendering was provided by the instructor: Jarek Rossignac.
 
 This project showcases concepts from Computer Graphics, using a significant number of applications of geometry and operations from linear algebra.
