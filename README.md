@@ -1,3 +1,5 @@
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 ## Graphics Vector Field Project
 
 Link to GitHub Page: https://chadhayes91.github.io/Well-Structured-Vector-Field-Triangulation/
